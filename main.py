@@ -12,3 +12,4 @@ myCam.bosonRunFFC()
 result, serialnumber = myCam.bosonGetCameraSN()
 
 myCam.Close
+# Useful to put a stop point for using debugging on that last line !
